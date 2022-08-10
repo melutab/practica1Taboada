@@ -1,0 +1,13 @@
+C:\practica GIT\practica GIT\bin\Debug\practica GIT.exe.config
+C:\practica GIT\practica GIT\bin\Debug\practica GIT.exe
+C:\practica GIT\practica GIT\bin\Debug\practica GIT.pdb
+C:\practica GIT\practica GIT\bin\Debug\practica GIT.xml
+C:\practica GIT\practica GIT\obj\Debug\practica GIT.vbprojAssemblyReference.cache
+C:\practica GIT\practica GIT\obj\Debug\practica_GIT.Form1.resources
+C:\practica GIT\practica GIT\obj\Debug\practica_GIT.Form2.resources
+C:\practica GIT\practica GIT\obj\Debug\practica_GIT.Resources.resources
+C:\practica GIT\practica GIT\obj\Debug\practica GIT.vbproj.GenerateResource.cache
+C:\practica GIT\practica GIT\obj\Debug\practica GIT.vbproj.CoreCompileInputs.cache
+C:\practica GIT\practica GIT\obj\Debug\practica GIT.exe
+C:\practica GIT\practica GIT\obj\Debug\practica GIT.xml
+C:\practica GIT\practica GIT\obj\Debug\practica GIT.pdb
